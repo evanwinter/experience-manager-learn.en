@@ -348,7 +348,7 @@ The **[ui.content](https://docs.adobe.com/content/help/en/experience-manager-cor
 
 ### Ui.frontend module {#ui-frontend-module}
 
-The **[ui.frontend](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/developing/archetype/uifrontend.html)** module is a Maven module that is actually a [webpack](https://webpack.js.org/) project. This module is set up to be a dedicated font-end build system that outputs JavaScript and CSS files, which are in turn deployed to AEM. The **ui.frontend** module allows developers to code with languages like [Sass](https://sass-lang.com/), [TypeScript](https://www.typescriptlang.org/), use [npm](https://www.npmjs.com/) modules and integrate the output directly into AEM.
+The **[ui.frontend](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/developing/archetype/uifrontend.html)** module is a Maven module that is actually a [webpack](https://webpack.js.org/) project. This module is set up to be a dedicated front-end build system that outputs JavaScript and CSS files, which are in turn deployed to AEM. The **ui.frontend** module allows developers to code with languages like [Sass](https://sass-lang.com/), [TypeScript](https://www.typescriptlang.org/), use [npm](https://www.npmjs.com/) modules and integrate the output directly into AEM.
 
 The **ui.frontend** module will be covered in far more detail in the chapter on client-side libraries and front-end development. For now let's look at how it is integrated into the project.
 
